@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
+
 <html>
     <head>
         <title>My City</title>
@@ -49,6 +51,9 @@ Execute the programs and publish them.
 </map>
     </center>
 </body>
+
+hotel.html
+
 </html>
 <html>
     <body bgcolor="lightgreen">
@@ -62,6 +67,9 @@ Execute the programs and publish them.
         </p></font>
     </body>
 </html>
+
+mall.html
+
 <html>
     <body bgcolor="lightgray">
         <font>
@@ -72,6 +80,9 @@ Execute the programs and publish them.
         </p></font>
     </body>
 </html>
+
+resort.html
+
 <html>
     <body bgcolor="lightpink">
         <font><h1 align="center">Belljem Homes Resort</h1> </font>
@@ -83,6 +94,9 @@ Execute the programs and publish them.
         </p></font>
     </body>
 </html>
+
+temple.html
+
 <html>
     <body bgcolor="lightblue">
         <font><h1 align="center">Vellanikara </h1> </font>
@@ -93,6 +107,9 @@ Execute the programs and publish them.
         </p></font>
     </body>
 </html>
+
+zoo.html
+
 <html>
     <body bgcolor="cyan">
         <font><h1 align="center">Thrissur Zoo & Museum</h1></font>
@@ -105,14 +122,10 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15).png>)
-![alt text](<Screenshot (16).png>)
-![alt text](<Screenshot (17).png>)
-![alt text](<Screenshot (19).png>)
-
-
-
+![alt text](<Screenshot (20).png>)
+![alt text](<Screenshot (21).png>)
+![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (23).png>)
+![alt text](<Screenshot (24).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
